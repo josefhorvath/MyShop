@@ -23,6 +23,7 @@ namespace MyShop.WebUI.Controllers
             productCategories = productCategoryContext;
         }
 
+       
 
         // GET: ProductManager
         public ActionResult Index()
